@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marcelo Penha</h1>
-<h3 align="center">A passionate Full-Stack developer from Brazil</h3>
+<h3 align="center">Full-Stack developer from Brazil</h3>
 <p align="center">
   <img align="center" style="text-align: center;"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=celopenha&show_icons=true&locale=en&layout=compact"
