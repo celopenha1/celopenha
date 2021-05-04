@@ -1,4 +1,3 @@
-<h3 align="center">Full-Stack developer from Brazil</h3>
 <p align="center">
   <img align="center" style="text-align: center;"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=celopenha&show_icons=true&locale=en&layout=compact"
